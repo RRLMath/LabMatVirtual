@@ -1,2 +1,2 @@
 # LabMatVirtual
-Laboratório de Matemática Virtual - IFPI Campus Teresina Central
+Laboratório de Matemática Virtual CATCE
